@@ -1,0 +1,483 @@
+#page{
+	width: 1080px;
+	height: 750px;
+	background-color: #f4f4f4;	
+	margin-left: 110px;
+}
+#menu{
+	width :200px;
+	height:150px;
+	float: left;
+	border-top-right-radius: 30px;
+	border-top-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	margin-top: 20px;
+	margin-left: 25px;
+}
+#menu-image{
+	width: 200px;
+	height: 230px;
+	background-color: #cdad90;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+	border-bottom-right-radius: 30px;
+}.div-menu-image{
+	width:100px; 
+	margin-left: 50px;
+}.taille-menu-image{
+	width:105px;
+	height: 105px;
+	border-radius:120px; 
+	margin-top: 30px;
+}.div-text-menu-image{
+	text-align:center; 
+	margin-top: 25px;
+}.text-span-premier{
+	font-size: 20px; 
+	font-weight: bold; 
+	color:white;
+	font-family: calibri;
+}.text-span-second{
+	font-size:13px; 
+	color:white;
+	font-family: calibri;
+}
+
+#container-menu-change{
+	background-color: #cdad90; 
+	width: 200px; 
+	height:40px;
+}
+
+#menu-change{
+	width: 170px;
+	height: 40px;
+	background-color: #f4f4f4;
+	float: right;
+	border-top-left-radius: 30px;
+	border-bottom-left-radius: 30px;
+}.icone-place{
+	margin-top: 10px;
+	margin-left: 12px;
+}.text-menu-change{
+	font-size: 15px;
+	margin-left: 15px;
+	color: #785a40; 
+}.icon-color-change{
+	color: #785a40; 
+}
+
+#menu-pas-change{
+	width: 200px;
+	height: 330px;
+	background-color: #cdad90;
+	border-top-right-radius: 30px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	float: right;
+}.top{
+	margin-top: 30px;
+}.taille-menu-pas-change{
+	width: 200px; 
+	height: 200px; 
+	border-top-right-radius: 30px;
+}
+
+#menu-list{
+	width: 150px;
+	height: 50px;
+	margin-left: 30px;
+}.text{
+	color: white;
+	margin-left: 25px;
+}.icon-color{
+	color: white;
+}
+
+#div-boutton-logout{
+	width:200px; 
+	height:70px; 
+	text-align: center;
+}.boutton-logout{
+	width: 110px; 
+	height:40px; 
+	border-radius: 10px; 
+	border: none; 
+	text-align: center; 
+	margin-top: 13px;
+	background-color: white;
+}.text-logout{
+	color: #cdad90;
+	margin-left: 10px;
+}.icone-logout{
+	color: #6a492e;
+}
+
+#content{
+	width :750px;
+	height:600px;
+	background-color: #f4f4f4;
+	float: right;
+	margin-right: 60px;
+}
+#nav{
+	width: 750px;
+	height: 100px;
+}
+#nav-en-tete{
+	width: 400px;
+	background-color: #f4f4f4;
+	float: left;
+	margin-top: 4px;
+}.nav-en-tete-h3{
+	color: #cdad90;
+	font-family: calibri;
+}.nav-en-tete-p{
+	color: gray;
+	font-family: calibri;
+}
+
+#nav-recherche{
+	width: 260px;
+	height: 50px;
+	background-color: #f4f4f4;
+	float: right;
+	margin-top: 30px;
+}
+#div-recherche{
+	width: 250px;
+	height: 40px;
+	border-radius: 10px;
+	background-color: white;
+	text-align: left;
+}.icon-recherche{
+	margin-top: 15px;
+	margin-left: 20px;
+	font-size: 12px;
+}.input-recherche{
+	border: none;
+	color: gray;
+	font-size: 12px;
+}
+
+
+/* TABLEAU */
+#tableau{
+	width: 800px;
+	height: 100px;
+}
+#tableau-1{
+	width: 240px;
+	height: 80px;
+	background-color: white;
+	float: left;
+	border-radius: 25px;
+}
+#tableau-2{
+	width: 270px;
+	height: 80px;
+	background-color: #cdad90;
+	float: left;
+	margin-left: 15px;
+	border-radius: 25px;
+}
+#tableau-3{
+	width: 240px;
+	height: 80px;
+	background-color: white;
+	float: left;
+	margin-left: 15px;
+	border-radius: 25px;
+}
+#tableau-content-icon{
+	width: 50px;
+	height: 50px;
+	background-color: #f4f4f4;
+	margin-top: 15px;
+	margin-left: 30px;
+	float: left;
+	text-align: center;
+	text-size-adjust: 40px;
+	border-radius: 60px;
+}
+#tableau-1-content-date{
+	width: 120px;
+	height: 80px;
+	background-color: white;
+	margin-right: 30px;
+	float: right;
+}
+#tableau-text-1{
+	color: gray;
+	font-size: 12px;
+	font-weight: bold;
+}
+#tableau-text-2{
+	color: #785a40; 
+	font-weight: bold; 
+	margin-top: -5px;
+	font-size: 16px;
+}
+#tableau-3-text-2{
+	color: #785a40; 
+	font-weight: bold; 
+	margin-left: 2px;
+	margin-top: -10px;
+	font-size: 22px;
+}
+#tableau-2-text-2{
+	color: white; 
+	font-weight: bold; 
+	margin-left: 25px;
+	margin-top: -5px;
+	font-size: 22px;
+}
+#tableau-2-text-1{
+	color: white;
+	font-size: 13px;
+	font-weight: bold;
+	margin-left: 25px;
+}
+#tableau-icon{
+	font-size: 27px; 
+	margin-top: 8px;
+	color: #cdad90;
+}
+#content-global{
+	width: 500px;
+	height: 500px;
+	border-radius: 25px;
+	background-color: white;
+	float: left;
+}.header-content-global{
+	margin-left: 30px;
+}.content-titre{
+	font-size: 18px;
+}.content-sous-titre{
+	font-size: 12px;
+	color: gray;
+}.table-header{
+	margin-left: "20px";
+}.table-header-artisans-div{
+	width: 70px;
+}.table-header-artisans{
+	margin-left: 30px;
+	font-size: 14px;
+	color:gray;
+}.table-header-ville{
+	margin-left: 130px;
+	font-size: 14px;
+   color:gray;
+}.table-header-total-participation{
+	margin-left: 100px;
+	font-size: 14px;
+   color: gray;
+}.content-style-global{
+	height: 25px;
+	margin-top: 20px;
+}.content-style-left{
+	width: 13px;
+	height: 25px;
+	background-color: #f4f4f4;
+	float: left;
+	border-radius: 0px 20px 20px 0px;
+}.content-style-right{
+	width: 13px;
+	height: 25px;
+	background-color: #f4f4f4;
+	float: right;
+	border-radius: 20px 0px 0px 20px;
+}.content-style-lines{
+	float: right;
+	margin-right: 20px;
+	color: gray;
+	margin-top: -10px;
+	font-size: 29px;
+}.content-table-positionnement{
+	margin-left: 20px;
+	height: 70px;
+}.content-table-contenu-information{
+	width: 200px;
+	height: 50px;
+}.content-table-contenu-information-image{
+	float: left;
+	margin-top: 7px;
+}.content-table-information-image{
+	border-radius: 50px;
+	width: 50px;
+}.content-table-information{
+	margin-left: 60px;
+	text-align: left;
+}.information-name{
+	font-size: 13px;
+	font-weight: bold;
+}.information-email{
+	font-size: 10px;
+	color: gray;
+}.content-table-contenu-lieu{
+	width: 130px;
+}.information-lieu{
+	font-size: 14px;
+	font-weight: bold;
+}.content-table-contenu-total-participant{
+	width: 130px;
+	text-align: center;
+}.information-total-participant{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+/* CONTENT-GLOBAL-RIGHT */
+#content-global-right{
+	width: 240px;
+	height: 400px;
+	background-color: #f4f4f4;
+	float: right;
+}
+#content-statistique{
+	width: 270px;
+	height: 205px;
+	background-color: white;
+	border-radius: 25px;
+}.chart{
+	width: 100px;
+	height: 100px;
+	position:relative;
+	border-radius: 50px;
+	background: conic-gradient(
+		#dcd1c9 0% 60%,
+		#cdad90 50% 100%
+	);
+}.center{
+	position: absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}.content-statistique-card{
+	width: 250px;
+	height: 205px;
+	margin-left: 20px;
+}.content-statistique-card-premier{
+	width: 160px;
+	height: 50px;
+	float: left;
+}.content-mois{
+	margin-left: 20px;
+	font-size: 12px;
+	color: gray;
+}.content-total-artisans{
+	margin-left: 20px;
+	margin-top: 20px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #cdad90;
+}.content-statistique-icone-mois{
+	margin-left: 15px;
+	color: #cdad90;
+}.content-statistique-icone-friend{
+	width: 70px;
+	float: right;
+}.content-statistique-container-icon-friend{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	background-color: #cdad90;
+}.icon-friends{
+	text-align: center;
+	color: white;
+	margin-left: 14px;
+	margin-top: 14px;
+	font-size: 18px;
+}.content-statistique-compteur{
+	width: 105px;
+	height: 75px;
+	margin-left: 20px;
+	float: left;
+}.compteur-statistique{
+	font-size: 45px;
+	font-weight: bold;
+	color: #6a492e;
+}.content-statistique-taille-card{
+	width: 105px;
+	height: 50px;
+}.content-statistique-positionnement-card{
+	width: 20px;
+	height: 50px;
+	float: left;
+}.content-statistique-card-first{
+	width: 16px;
+	height: 8px;
+	background-color: #917155;
+	margin-top: 10px;
+}.content-statistique-card-second{
+	width: 16px;
+	height: 8px;
+	background-color: #dcd1c9;
+	margin-top: 10px;
+}.content-statistique-card-pourcentage{
+	width: 85px;
+	height: 50px;
+	float: right;
+}.content-statistique-taille-genre{
+	font-size: 12px;
+	margin-left: 5px;
+}.content-statistique-chart{
+	width: 105px;
+	height: 75px;
+	margin-left: 12px;
+	margin-top: 25px;
+	float: right;
+}
+
+
+/* RESERVATION */
+#content-reservation{
+	width: 270px;
+	height: 270px;
+	background-color: white;
+	border-radius: 25px;
+	margin-top: 10px;
+}.content-reservation-titre{
+	width: 270px;
+	height: 60px;
+	text-align: center;
+}.content-reservation-text{
+	color: #cdad90;
+	text-align: center;
+	margin-top: 20px;
+}.content-reservation-liste{
+	width: 230px;
+	height: 40px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 10px;
+}.content-reservation-card-artisans{
+	width: 5px;
+	height: 40px;
+	background-color: #edad5d;
+	float: left;
+}.content-reservation-card-image{
+	width: 40px;
+	height: 40px;
+	float: left;
+	margin-left: 10px;
+}.content-reservation-image{
+	width: 40px;
+	border-radius: 50px;
+}.content-reservation-card-information{
+	width: 165px;
+	height: 40px;
+	float: left;
+	margin-left: 10px;
+}.content-reservation-text-nom{
+	font-size: 14px;
+	font-weight: bold;
+	color: #785a40;
+	margin-top: 0px;
+}.content-reservation-text-email{
+	font-size: 11px;
+	color: gray;
+	margin-top: -11px;
+}
